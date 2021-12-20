@@ -1,0 +1,2 @@
+rootProject.name = "Kaltak"
+include ':app'
